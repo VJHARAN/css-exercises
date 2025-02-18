@@ -93,7 +93,7 @@ h2{
  
 
 .icon{
-	min-width :40px;
+	 flex-shrink:0;
 	
 }
 
